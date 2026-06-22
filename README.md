@@ -1,2 +1,11 @@
-# shiny-happiness
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Welcome to my project!</h1>
+  <p>This is my first website on GitHub.</p>
+</body>
+</html># shiny-happiness
 My first code challenge 
